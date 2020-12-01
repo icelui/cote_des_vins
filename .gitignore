@@ -5,3 +5,5 @@ _OLD
 dash
 présentations/img
 scrapy/*/*output
+scrapy/larvf/data
+clean_data/*rvf*
