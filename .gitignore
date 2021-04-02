@@ -7,3 +7,4 @@ présentations/img
 scrapy/*/*output
 scrapy/larvf/data
 clean_data/*rvf*
+predicted_data/*
